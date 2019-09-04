@@ -1,0 +1,6 @@
+exit
+
+sls -l &
+ls -l
+ls
+exit
